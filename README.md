@@ -49,3 +49,16 @@ laptop. The data store must be exposed as a library to clients that can instanti
 1. HTML
 2. CSS
 3. JavaScript
+
+# Output Screenshots
+![homepage](https://user-images.githubusercontent.com/52233220/103453457-29b50500-4d00-11eb-8009-8af547361fe3.png)
+
+![createpage](https://user-images.githubusercontent.com/52233220/103453413-cc20b880-4cff-11eb-9205-86727350f272.png)
+
+![datasaved](https://user-images.githubusercontent.com/52233220/103453435-f4101c00-4cff-11eb-8950-a5286a242008.png)
+
+![readpage](https://user-images.githubusercontent.com/52233220/103453451-199d2580-4d00-11eb-8f45-eb82799020bd.png)
+
+![deletepage](https://user-images.githubusercontent.com/52233220/103453440-04c09200-4d00-11eb-96ab-b8cf4fe28fe1.png)
+
+
